@@ -17,6 +17,7 @@ export default class App extends Component {
   }
 
   analyzeWord = () => {
+    //initialize all variables
     let word = this.state.word;
     let cons = 0;
     let vowels = 0;
