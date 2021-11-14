@@ -44,4 +44,4 @@ As refer to the function,
 
 Create a refernce stylesheet based on your own design preference
 
-![alt text](Screenshot.png)
+![alt text](https://github.com/farahatqah/Word-Analyzer.git/master/Screenshot.png)
