@@ -45,6 +45,6 @@ As refer to the function,
 Create a reference stylesheet based on your own design preference
 
 
-*Example*
+*Example:-*
 
 ![alt text](https://github.com/farahatqah/Word-Analyzer/blob/master/images/Screenshot.PNG)
