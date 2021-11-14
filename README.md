@@ -43,3 +43,5 @@ As refer to the function,
 **Step 5 (Final)**
 
 Create a refernce stylesheet based on your own design preference
+
+![alt text](Screenshot.png)
