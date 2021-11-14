@@ -42,6 +42,6 @@ As refer to the function,
 
 **Step 5 (Final)**
 
-Create a refernce stylesheet based on your own design preference
+Create a reference stylesheet based on your own design preference
 
-![alt text](https://github.com/farahatqah/Word-Analyzer.git/master/Screenshot.png)
+![alt text](https://github.com/farahatqah/Word-Analyzer/blob/master/Screenshot.png?raw=true)
