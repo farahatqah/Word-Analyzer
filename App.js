@@ -23,25 +23,26 @@ export default class App extends Component {
     let vowels = 0;
     let char = 0;
 
-    var length = word.length;
     var input = word.split('');
+    var length = input.length;
+
 
     for (let i = 0; i < length; i++){
-
-      //to count characters of consonents
-      if(word.charAt(i).match(listCons)){
+      
+      // to count characters of consonents
+      if (input[i].match(listCons)){
         cons++;
       }
-      //to count characters of vowels
-      else if(word.charAt(i).match(listVow)){
+      // to count characters of vowels
+      else if(input[i].match(listVow)){
         vowels++;
       }
 
-      if (word[i] != ' '){
-        char ++;;
+      if(input[i] != " "){
+        char++;
       }
 
-    }
+   }
 
     this.setState({cons:cons});
     this.setState({vowels:vowels});
@@ -63,7 +64,6 @@ export default class App extends Component {
         <Text style = {styles.result}>No. of Vowels                 : {this.state.vowels}</Text>
         <Text style = {styles.result}>No. of Characters           : {this.state.char}</Text>
 
-        
       </View>
     );
   }
